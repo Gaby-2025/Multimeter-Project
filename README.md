@@ -7,5 +7,6 @@ Despite our efforts, the final version of the code did not perform exactly as in
 
 We invite future students and hobbyists to explore, modify, and improve the code. Whether you're aiming to add features, improve accuracy, or refactor the menu system, you're welcome to build on what we've started.
 
+(https://youtu.be/Ge02KHk5bfs?feature=shared)
 
-https://github.com/jromero899/CODE
+https://youtu.be/Ge02KHk5bfs?feature=shared
