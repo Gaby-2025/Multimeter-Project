@@ -1,0 +1,2 @@
+This is the original code for our Arduino-based multimeter, which uses an LCD display and an IR remote for user input and mode selection. The code functions as intended overall. However, we observed interference between the IR receiver and the inductance measurement circuit, causing the measured inductance to be roughly half of its true value. To compensate for this, we multiply the inductance reading by 1.65 in the code to bring the result closer to the actual value.
+All other measurement functions operate as expected. Feel free to build upon or improve this code as needed.
